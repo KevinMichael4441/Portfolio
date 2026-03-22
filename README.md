@@ -1,5 +1,5 @@
 # Kevin Michael's Portfolio 💚
-## A collection of some of the Projects I've done/ contributed to over the years and a brief explanation of my role in them.
+## A collection of some of the projects I've done/ contributed to over the years and a brief explanation of my role in them.
 
 ----------------------------------
 
@@ -7,7 +7,7 @@
 ### [GitHub Repository](https://github.com/KevinMichael4441/Games-Fleadh)
 
 I was the **team captain and lead programmer** for our 'Game Studio' entry in Games Fleadh 2026. We ended up winning the **"Best Game Built using Software Libraries"** title. The game can be compiled for and played on Windows,
-Linux, web and the R36S/r36xx handheld deviceS (binaries from ARM cross-compilation).
+Linux, web and the R36S/R36XX handheld deviceS (binaries from ARM cross-compilation).
 
 
 My main contribution to the project was creating a soft-body player that can squish and stretch, giving it a slimy feel. Additionally, as team captain, I was in charge of managing my team by 
@@ -40,7 +40,7 @@ this algorithm was made after extensive testing in trying to find a balance betw
 ### **Forest of the Shadows** 🫣
 ### [GitHub Repository](https://github.com/KevinMichael4441/Forest-of-the-Shadows)
 
-Forest of the Shadows was part of my 'UI Programming' module in my course. Making this game was also one of my first times creating a Progressive Web App (PWA) that can be installed and played *(even on your phone!)*
+Forest of the Shadows was part of my 'UI Programming' module in my course. Making this game was also one of my first times creating a Progressive Web App (PWA) that can be installed and played *(even on your phone!)*.
 
 More details about the project can be found in the GitHub repository and its README.md file. 
 
