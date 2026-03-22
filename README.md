@@ -3,7 +3,7 @@
 
 ----------------------------------
 
-### **OOZ3: Slilab** 🟢 🤖
+### **OOZ3: Slilab** 🟢
 ### [GitHub Repository](https://github.com/KevinMichael4441/Games-Fleadh)
 
 I was the **team captain and lead programmer** for our 'Game Studio' entry in Games Fleadh 2026. We ended up winning the **"Best Game Built using Software Libraries"** title. The game can be compiled for and played on Windows,
@@ -21,7 +21,7 @@ Over the course of the 6 weeks that we did the project, I learnt a mountain of k
 ----------------------------------
 
 
-### **BigMack for RoboCode**
+### **BigMack for RoboCode** 🤖
 ### [Source Code](https://github.com/KevinMichael4441/roboCodeProgress.git)
 For the national RoboCode competition at Games Fleadh 2025, I made a battle tank called BigMack with two teammates representing my university and campus - SETU Carlow. From the group stage to finals, we won without losing a single match.
 
@@ -37,7 +37,7 @@ this algorithm was made after extensive testing in trying to find a balance betw
 
 ----------------------------------
 
-### **Forest of the Shadows**
+### **Forest of the Shadows** 🫣
 ### [GitHub Repository](https://github.com/KevinMichael4441/Forest-of-the-Shadows)
 
 Forest of the Shadows was part of my 'UI Programming' module in my course. Making this game was also one of my first times creating a Progressive Web App (PWA) that can be installed and played *(even on your phone!)*
@@ -50,7 +50,7 @@ More details about the project can be found in the GitHub repository and its REA
 
 ----------------------------------
 
-### **Gameplay Programming I 2025 Project**
+### **Gameplay Programming I 2025 Project** 🛡️
 ### [GitHub Repository](https://github.com/KevinMichael4441/Gameplay_Programming_I_2025/tree/main/PROJECT)
 
 This project was done as part of the 'Gameplay Programming I' module in my course. It was my first time making a game in C and implementing state machines and design patterns such as the command pattern.
@@ -62,7 +62,7 @@ More details about the project can be found in the GitHub repository and its REA
 
 ----------------------------------
 
-### **The Ghastly Grab**
+### **The Ghastly Grab** 👻
 ### [GitHub Repository](https://github.com/PeterLowe/prototype25-team-eight-5xwinners)
 
 This project was done as part of the 'Game Design' module in my course. I mostly worked on collisions and player movement. Additionally, I would also help my teammates resolve bugs and merge conflicts. 
