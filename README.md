@@ -10,8 +10,7 @@ I was the **team captain and lead programmer** for our 'Game Studio' entry in Ga
 Linux, web and the R36S/R36XX handheld devices (binaries from ARM cross-compilation)**.
 
 
-My main contribution to the project was creating a soft-body player that can squish and stretch, giving it a slimy feel. Additionally, as team captain, I was in charge of managing my team by 
-ensuring we meet deadlines, maintaining correspondence between my teammates and our academic mentor, and helping my team with any debugging issues and merge conflicts. 
+My main contribution to the project was creating a soft-body player that can squish and stretch, giving it an organic feel. Additionally, as team captain, I was in charge of managing my team by ensuring we meet deadlines, maintaining correspondence between my teammates and our academic mentor, and helping my team with any debugging issues and merge conflicts. 
 
 Over the course of the 6 weeks that we did the project, I learnt a mountain of knowledge - from setting up dev containers to solving deltaTime issues specific to R36S - pretty much everything I did was new to me and a learning journey.
 
