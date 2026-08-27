@@ -64,6 +64,18 @@ More details about the game can be found in the GitHub repository and its README
 
 ----------------------------------
 
+### **Lights Out in Assembly** 0️⃣
+### [GitHub Repository](https://github.com/KevinMichael4441/LightsOff_Assembly)
+
+This game was made as part of the 'Assembly Programming' module in my course. It was made in **68K Assembly using the EASy68K IDE**. 
+
+More details are in the Design Doc and README.md in the GitHub Repository. 
+
+<img width="462" height="422" alt="image" src="https://github.com/user-attachments/assets/ef99ae0e-f6e0-4b84-b05c-1641abe52911" />
+
+
+----------------------------------
+
 ### **Sliding Puzzle Game** ⌚
 ### [GitHub Repository](https://github.com/PeterLowe/spring25-KevinMichael4441)
 
