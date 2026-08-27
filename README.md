@@ -118,17 +118,4 @@ This game was made as part of my 'Object Oriented Programming' module. It was ma
 
 ![Karak Rush](https://github.com/user-attachments/assets/1af7cc0f-8b3c-46a8-af1f-d019399f6e84)
 
-----------------------------------
-
-### **Popping Their Bubble** 🫧
-### [GGJ Website](https://globalgamejam.org/games/2025/popping-their-bubble-2)
-
-This game was made in 48 hours for my first edition of Global Game Jam. It was made in **C++ using the SFML library**.
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e91e2e3c-856e-4adc-b350-87e6f9dd8e8f" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e8e0c76a-7737-42f6-b045-db14479f3cba" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bbdf1256-1140-4b4a-9ddb-453c227344fa" />
-
-
-
 
