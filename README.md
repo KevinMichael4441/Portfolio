@@ -54,11 +54,9 @@ More details about the project can be found in the GitHub repository and its REA
 ---------------------------------
 
 ### **The Ghastly Grab** 👻
-### [GitHub Repository](https://github.com/PeterLowe/prototype25-team-eight-5xwinners)
+### [GitHub Repository](https://github.com/KevinMichael4441/Ghastly-Grab)
 
 This project was done as part of the 'Game Design' module in my course. I mostly worked on collisions and player movement. Additionally, I would also help my teammates resolve bugs and merge conflicts. It was made in **C++ using the SFML Library**.
-
-More details about the game can be found in the GitHub repository and its README.md file. 
 
 <img width="1136" height="902" alt="image" src="https://github.com/user-attachments/assets/1ca26a51-6957-4b0c-878f-b26826b03d19" />
 
@@ -77,9 +75,10 @@ More details are in the Design Doc and README.md in the GitHub Repository.
 ----------------------------------
 
 ### **Sliding Puzzle Game** ⌚
-### [GitHub Repository](https://github.com/PeterLowe/spring25-KevinMichael4441)
 
-This game was also made as part of the 'Game Design' module in my course. It was also made in **C++ using the SFML library**. 
+This game was also made as part of the 'Game Design' module in my course. It was also made in **C++ using the SFML library**.
+
+The repository for it no longer exists.
 
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3d6791a2-d7cc-4eaa-9b5b-aa5914952540" />
