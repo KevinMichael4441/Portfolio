@@ -15,6 +15,12 @@ My main contribution to the project was creating a soft-body player that can squ
 Over the course of the 6 weeks that we did the project, I learnt a mountain of knowledge - from setting up dev containers to solving deltaTime issues specific to R36S - pretty much everything I did was new to me and a learning journey.
 
 ![SETU Games Fleadh 26 Photo by Ray Keogh-3](https://github.com/user-attachments/assets/9792e323-78ee-4f73-bd33-dfadc36eaee4)
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/664d9c91-8d8c-4d09-9850-83e90ac95aaa" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c88b9500-0c4e-432e-94c1-6a9b17cfccee" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d6cd2f23-d954-4060-aa99-5b469b40ae1b" />
+
+
+
 
 ----------------------------------
 
